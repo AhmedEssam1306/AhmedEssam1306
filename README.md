@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Essam
 - 👀 I’m interested in **QA Automation and Front-end Developement**
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **.Net**
 - 💞️ I’m looking to collaborate on **Part-time, Contract or Fulltime**
 - 📫 How to reach me: **ae.abdelqawy@gmail.com**
 
